@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="error_Name">Name is a required field</string>
+    <string name="error_Number">Number must be a positive integer!</string>
+    <string name="student_Add">Student added</string>
+    <string name="student_Exist">Student number already exists</string>
+    <string name="student_No_Find">No students found</string>
+    <string name="list_Clear">The list has been cleared</string>
+    <string name="list_is_empty">The list is already empty</string>
+    <string name="student_number">Student Number</string>
+    <string name="student_name">Student Name</string>
+    <string name="add_student">Add Student</string>
+    <string name="list_students">List Students</string>
+    <string name="clear_students">Clear List</string>
+    <string name="display_student">Name: %s,  Number: %d</string>
+    <string name="name_contains_number">Name must not contain a number</string>
+    <string name="new_line"> \n</string>
+    <string name="int_value_exceeded">Student number exceeds max/min value allowed</string>
+</resources>
